@@ -44,4 +44,4 @@ uvx streamlit run advance_age_calc.py
 
 ## License
 
-This project is for
+This project is for educational purposes.
